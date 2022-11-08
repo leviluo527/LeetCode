@@ -1,3 +1,5 @@
+//Whenever you see a question with partial ordering (a > b, c >d), 
+//you should immediately wonder if topological sort can find a mapping to satisfy that ordering.
 class Topological {
     public boolean topological (int N, int[][] array) {
         HashMap<Integer, List<Integer>> graph = new HashMap<>();
