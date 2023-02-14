@@ -1,6 +1,6 @@
 /*Solution1: Use a hashmap to find the result
-* Time: O(n)
-* Space: O(n)
+* Time: O(N)
+* Space: O(N)
 */
 class Solution {
     public int[] twoSum(int[] nums, int target) {
@@ -21,8 +21,8 @@ class Solution {
 }
 
 /*Solution2: Use one pass HashMap, everytime insert a value, we will look back
-* Time: O(n)
-* Space: O(n)
+* Time: O(N)
+* Space: O(N)
 */
 class Solution {
     public int[] twoSum(int[] nums, int target) {
