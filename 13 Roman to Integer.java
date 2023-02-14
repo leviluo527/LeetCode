@@ -1,4 +1,4 @@
-/*Solution: Use a HashMap, then start from right to left
+/*Solution: Use a HashMap, then start from right to left 
 * Whenever we saw a element that is smaller than prev, subtract
 * Time: O(1)
 * Space: O(1)
