@@ -1,6 +1,6 @@
 /*Solution: Use Sorting + List.toArray(new int[list.size][2])
 * Time: O(nlogn)
-* Space: O(nlogn)
+* Space: O(logn)
 */
 class Solution {
     public int[][] merge(int[][] intervals) {
