@@ -1,6 +1,6 @@
 /*Solution: Use a dummy node
-* Time: O(list1.length + list2.length)
-* Space: O(list1.length + list2.length)
+* Time: O(m + n)
+* Space: O(m + n)
 */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
