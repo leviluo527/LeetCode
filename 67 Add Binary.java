@@ -1,6 +1,6 @@
 /*Solution: Stringbuilder + reverse
 * Time: O(N)
-* Space: O(N)S
+* Space: O(N)
 */
 class Solution {
     public String addBinary(String a, String b) {
