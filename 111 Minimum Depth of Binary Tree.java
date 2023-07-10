@@ -1,6 +1,6 @@
 /* Solution: Use Recursion + condition
 * Time: O(n)
-* Spcae: O(logn)
+* Spcae: O(n)
 */
 class Solution {
   public int minDepth(TreeNode root) {
